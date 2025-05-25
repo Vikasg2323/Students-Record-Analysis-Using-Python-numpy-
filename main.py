@@ -15,15 +15,15 @@ class TreeNode:
             ret += child.__repr__(level + 1)
         return ret
     
-# Create nodes
-root = TreeNode("Electronics")
-laptop = TreeNode("Laptop")
-tv = TreeNode("Television")
-phone = TreeNode("Smartphone")
+# # Create nodes
+# root = TreeNode("Electronics")
+# laptop = TreeNode("Laptop")
+# tv = TreeNode("Television")
+# phone = TreeNode("Smartphone")
 
-# Add children to root
-root.add_child(laptop)
-root.add_child(tv)
-root.add_child(phone)
+# # Add children to root
+# root.add_child(laptop)
+# root.add_child(tv)
+# root.add_child(phone)
 
-print(root)
+# print(root)
