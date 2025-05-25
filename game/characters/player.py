@@ -1,2 +1,2 @@
 def get_player_info():
-    print("I am th main player")
+    print("I am th main plaxczczcyer")
